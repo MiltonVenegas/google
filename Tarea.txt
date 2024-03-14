@@ -1,0 +1,10 @@
+Dato: es una partida de informacion individual que no tiene importancia por mi misma compuesta por caracteres, tiene que tener las siguientes propiedades
+
+Exactitud: indica que tiene que ser preciso, no puede tener interpretacion
+Integridad: Que tiene que tener coherencia y dominio, es decir al rango de valores que puede almacenar ese dato
+Disponibilidad: Lo puedo usar cuando lo necesito, tiene que estar 99.9999999999999999% disponible
+Confiabilidad: Que mi dato siempre sea el mismo, que no se modifique a no ser que yo haga haga una accion que lo modifique
+Utilidad: Que pueda hacer algo con ese dato
+Accesibilidad: Que se pueda llegar a el, que pueda ser manipulable 
+Pertinente: Que tenga un proposito, que sea importante para lo que estamos haciendo y relevante 
+Usabilidad: Que tan facil es que el usuario puede interactuar con el dato
